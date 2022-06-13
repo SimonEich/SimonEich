@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SimonEich
 - 👀 I’m interested in Front-End-Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript, HTML, CSS and Elm.
 - 💞️ I’m looking to collaborate on everything that enables me to start as a developer.
-- 📫 How to reach me: Mail: simon.eich1998@gmai.com
+- 📫 How to reach me: Mail: simon.eich1998@gmail.com
 
 <!---
 SimonEich/SimonEich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
